@@ -1,0 +1,7 @@
+.gradle/
+build/
+target/On branch master
+.classpath
+.project
+.settings/
+bin/

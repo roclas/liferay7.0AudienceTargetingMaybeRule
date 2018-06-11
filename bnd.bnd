@@ -1,0 +1,4 @@
+Bundle-Name: rule-maybe
+Bundle-SymbolicName: rule.maybe
+Bundle-Version: 1.0.0
+Web-ContextPath: /content-targeting-rule-maybe
